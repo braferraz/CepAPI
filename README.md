@@ -1,6 +1,6 @@
 # Cep API
 Consumindo API do site ViaCEP em uma aplicação console
-## Linguagem e Library utilizadas no desenvolvimento:
+## Linguagem e Biblioteca utilizadas no desenvolvimento:
 * C#
 * Refit
 ### O que esta aplicação retorna:
